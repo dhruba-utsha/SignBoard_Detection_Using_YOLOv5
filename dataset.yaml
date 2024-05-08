@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/CSE428_Project/data/train/images
+val: /content/drive/MyDrive/CSE428_Project/data/val/images
+
+# Classes
+nc: 1  # number of classes
+names: [ 'SignBoard']  # class names
